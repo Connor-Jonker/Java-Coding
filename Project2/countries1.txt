@@ -1,0 +1,80 @@
+32866272 Angola
+38717 Turks and Caicos
+168775 Guam
+18383955 Zambia
+26223 Caribbean Netherlands
+220892340 Pakistan
+5540720 Finland
+9904607 Honduras
+597339 Western Sahara
+9537645 Tajikistan
+4649658 Mauritania
+29136808 Nepal
+393244 Bahamas
+102334404 Egypt
+5106626 Oman
+1160164 Eswatini
+43851044 Algeria
+54409800 Myanmar
+5421241 Norway
+18094 Palau
+65273511 France
+46754778 Spain
+14862924 Zimbabwe
+896445 Fiji
+9449323 Belarus
+7496981 Hong Kong
+11792 Tuvalu
+331002651 United States
+36910560 Morocco
+198414 Samoa
+1399488 Trinidad and Tobago
+5792202 Denmark
+2351627 Botswana
+69799978 Thailand
+13132795 Guinea
+3473730 Uruguay
+16425864 Chad
+1402985 Equatorial Guinea
+112523 Grenada
+183627 Saint Lucia
+4822233 New Zealand
+11402528 Haiti
+6077 Saint Helena
+65722 Cayman Islands
+9877 Saint Barthelemy
+375265 Martinique
+11326616 Cuba
+2860853 Puerto Rico
+33931 San Marino
+15003 Anguilla
+84339067 Turkey
+540544 Maldives
+6624554 Nicaragua
+2881053 Qatar
+32365999 Malaysia
+32971854 Peru
+77265 Andorra
+43733762 Ukraine
+3546421 Eritrea
+28435940 Venezuela
+2225734 Gabon
+33469203 Uzbekistan
+2142249 Lesotho
+51269185 South Korea
+6031200 Turkmenistan
+67886011 United Kingdom
+988000 Djibouti
+219159 Sao Tome & Principe
+50882891 Colombia
+2877797 Albania
+45741007 Uganda
+43849260 Sudan
+18776707 Kazakhstan
+1968001 Guinea-Bissau
+686884 Solomon Islands
+5094118 Costa Rica
+2961167 Jamaica
+114963588 Ethiopia
+6524195 Kyrgyzstan
+6871292 Libya
